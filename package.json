@@ -1,0 +1,24 @@
+{
+  "name": "css-boxes-with-physics",
+  "version": "0.1.0",
+  "description": "",
+  "main": "demo.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lukenickerson/css-boxes-with-physics.git"
+  },
+  "keywords": [
+    "game",
+    "platformer"
+  ],
+  "bugs": {
+    "url": "https://github.com/Lukenickerson/css-boxes-with-physics/issues"
+  },
+  "homepage": "https://github.com/Lukenickerson/css-boxes-with-physics#readme",
+  "dependencies": {
+    "cannon-es": "^0.9.1"
+  }
+}
